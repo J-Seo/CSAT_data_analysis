@@ -175,15 +175,9 @@ sent_text = split_sentence(text)
 
 sent_dataset = sentence_content(sent_text)
 
-text
-
 correct_answer(text)
 
-text[:20000]
 
-import random
-
-random.choice(['중식', '미스터 국밥'])
 
 
 
